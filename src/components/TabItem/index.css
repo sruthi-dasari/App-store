@@ -1,0 +1,12 @@
+.tab-item-container {
+  list-style: none;
+  padding-right: 5px;
+}
+
+.tab-btn {
+  color: #7b8794;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-bottom: 2px solid #dfe2e5;
+}
